@@ -1,2 +1,2 @@
 # curriculo
-repositório de currículo feito com HTML e CSS
+repositório de projeto de currículo feito com HTML e CSS
